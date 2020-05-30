@@ -1,4 +1,4 @@
-class redBlackTree:
+class RedBlackTree:
     class Node:
         def __init__(self,key=None,val=None,color = False):
             self.key = key
